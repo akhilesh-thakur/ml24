@@ -1,0 +1,62 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+*.pyz
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+env2/
+venv2/
+.python-version
+
+# IDE-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.pkl
+
+# Model files
+models/
+*.h5
+*.pkl
+
+# Experiment files
+experiments/
+logs/
+results/
+
+# Dependency directories
+node_modules/
+dist/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.config
+
+# Environment variables file
+.env
